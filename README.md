@@ -7,6 +7,15 @@
 ### 🛠 Technologies
 
 The following tools were used in the construction of the project:
-
+- [Python](https://www.python.org/)
 - [Django](https://www.djangoproject.com/)
 - [Django-REST-Framework](https://www.djangoproject.com/)
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Restaurant.
+
+```bash
+pip install virtualenv
+pip install -r requirements.txt
+```
