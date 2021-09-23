@@ -1,7 +1,8 @@
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 Restaurant</a>
+    <a href="https://pt-br.reactjs.org/"> :pizza: Restaurant</a>
+    
 </h1>
-<p align="center">🚀 api developed thinking of an environment with three user chef, client and administrator</p>
+<p align="center"> :computer: api developed thinking of an environment with three user chef, client and administrator</p>
 
 ### 🛠 Technologies
 
